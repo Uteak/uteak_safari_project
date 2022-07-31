@@ -1,5 +1,7 @@
 동물장기 + PPO or Muzero
 
+ppt영상 링크 : https://www.youtube.com/watch?v=EhnrcQ_-hCQ
+
 ![acrhitecture](https://github.com/SeongYil/KDT_B3/blob/master/ReadImage/play.PNG)
 
 Sub Git repo
